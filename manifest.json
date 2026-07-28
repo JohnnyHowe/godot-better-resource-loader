@@ -1,0 +1,13 @@
+{
+	"name": "better_resource_loader",
+	"dependencies": {
+		"jons_godot_utilities_to_sort": {
+			"url": null,
+			"revision": null
+		},
+		"jsonc": {
+			"url": null,
+			"revision": null
+		}
+	}
+}
